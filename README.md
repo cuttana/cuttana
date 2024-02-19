@@ -7,6 +7,8 @@ Two main repositories are `partitioner` and `application-study`. The first one c
 
 Please do not hesitate to contact me if there is any problem. Building the partitioner should be as easy of running a make command and the application study is containerized. 
 
+## Update 19 Feb:
+We add versions of requirements (g++, make, openmp) as well as documentation about file format and an example file to `cuttana/cuttana-partitioner` repository. 
 <!--
 **cuttana/cuttana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
