@@ -9,6 +9,9 @@ Please do not hesitate to contact me if there is any problem. Building the parti
 
 ## Update 19 Feb:
 We add versions of requirements (g++, make, openmp) as well as documentation about file format and an example file to `cuttana/cuttana-partitioner` repository. 
+
+## Update 26 Feb:
+We add an efficient single threaded implementation (without lock-free queues) in `cuttana/cuttana-partitioner` repository.
 <!--
 **cuttana/cuttana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
