@@ -3,7 +3,7 @@
 ⚔️ This is the code for our paper `CUTTANA: Scalable Graph Partitioning for Faster
 Distributed Graph Databases and Analytics`. ⚔️
 
-Two main repositories are `partitioner` and `application-study`. The first one contains the codes for the actual implementation of Cuttana and the second one is the framework for application study. 
+Two main repositories are `cuttana-partitioner` and `application-study`. The first one contains the codes for the actual implementation of Cuttana and the second one is the framework for application study. 
 
 Please do not hesitate to contact me if there is any problem. Building the partitioner should be as easy of running a make command and the application study is containerized. 
 
