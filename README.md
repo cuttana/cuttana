@@ -5,6 +5,8 @@ Distributed Graph Databases and Analytics`. ⚔️
 
 Two main repositories are [`cuttana-partitioner`](https://github.com/cuttana/cuttana-partitioner) and [`application-study`](https://github.com/cuttana/application-study). The first one contains the codes for the actual implementation of Cuttana and the second one is the framework for application study. 
 
+Our graph partitioning algorithm has been accepted in the VLDB2025 conference. You can read the full paper [here](https://www.vldb.org/pvldb/vol18/p14-hajidehi.pdf). 
+
 Please do not hesitate to contact me if there is any problem. Building the partitioner should be as easy of running a make command and the application study is containerized. 
 
 ## Updates:
