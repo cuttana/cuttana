@@ -7,7 +7,16 @@ Two main repositories are [`cuttana-partitioner`](https://github.com/cuttana/cut
 
 Our graph partitioning algorithm has been accepted in the VLDB2025 conference. You can read the full paper [here](https://www.vldb.org/pvldb/vol18/p14-hajidehi.pdf). 
 
-Please do not hesitate to contact me if there is any problem. Building the partitioner should be as easy of running a make command and the application study is containerized. 
+If you used our paper please cite it using this bibtex: 
+
+```
+@article{hajidehi2023cuttana,
+  title={CUTTANA: Scalable Graph Partitioning for Faster Distributed Graph Databases and Analytics},
+  author={Hajidehi, Milad Rezaei and Sridhar, Sraavan and Seltzer, Margo},
+  journal={arXiv preprint arXiv:2312.08356},
+  year={2023}
+}
+```
 
 ## Updates:
 We add versions of requirements (g++, make, openmp) as well as documentation about file format and an example file to [`cuttana/cuttana-partitioner`](https://github.com/cuttana/cuttana-partitioner) repository. 
